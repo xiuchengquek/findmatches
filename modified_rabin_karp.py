@@ -1,7 +1,4 @@
 
-
-## With sort =base case (m + m +n ) , wrose case ( mlogm mn )
-## without sour base case ( m + n ) , worse case(  mn )
 ## might be faster if you sort
 ## See https://en.wikipedia.org/w/index.php?title=Rabin%E2%80%93Karp_string_search_algorithm&redirect=no ? maybe haha
 
