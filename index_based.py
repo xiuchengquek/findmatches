@@ -3,7 +3,6 @@ from collections import defaultdict
 
 
 
-## best case  O(m + n ) worse case  = O(mn)
 
 
 demul = [{'a','b','c'}, {'c','a'}] * 5
